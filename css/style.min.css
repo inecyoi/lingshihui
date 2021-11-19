@@ -1371,7 +1371,7 @@ h6 {
 }
 
 .features-content .nav .nav-link.active {
-    background: #fff !important;
+    background: rgb(255, 230, 230) !important;
     -webkit-box-shadow: 2px 2px 12px -2px rgba(0, 0, 0, 0.08);
     box-shadow: 2px 2px 12px -2px rgba(0, 0, 0, 0.08)
 }
